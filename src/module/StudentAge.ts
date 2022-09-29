@@ -1,0 +1,1 @@
+export let studentAge:number = 25;
