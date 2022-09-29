@@ -10,4 +10,4 @@ console.log(userName.toUpperCase());
 console.log(userName.toLowerCase());
 console.table(userName.split(" "));
 console.log(userName.length);
-console.log(userID.length); // error
+/* console.log(userID.length); // error */
